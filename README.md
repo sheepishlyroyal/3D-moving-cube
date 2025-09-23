@@ -1,3 +1,5 @@
+***ROUGH AMOUNT OF TIME TAKEN --> like 3-4 weeks, or (6-7)/2 weeks***
+
 **IMPORTANT NOTICES**
 
 This code _REQUIRES_ shape_predictor_68_face_landmarks.dat for it to work
