@@ -2,7 +2,7 @@
 
 **IMPORTANT NOTICES**
 
-This code _REQUIRES_ shape_predictor_68_face_landmarks.dat for it to work
+This code _REQUIRES_ shape_predictor_68_face_landmarks.dat for it to work (search it up, will post it in 1.0.0 Final)
 
 You ABSOLUTELY need this for the face tracker to work. *-yes,i have a version that uses a, d, w, s, and g, f -yes,i accidently deleted it*
 
