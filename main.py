@@ -1,3 +1,7 @@
+
+####### PLEASE INSTALL SHAPE_PREDICTOR_68 (full name in README.md)  #######
+####### ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^] #######
+
 import os
 import math
 import shutil
