@@ -1,5 +1,5 @@
 
-####### PLEASE INSTALL SHAPE_PREDICTOR_68 (full name in README.md)  #######
+####### PLEASE INSTALL SHAPE_PREDICTOR_68 (full name in README.md)  ####### (and put it in the same folder)
 ####### ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^] #######
 
 import os
