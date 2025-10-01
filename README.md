@@ -30,8 +30,4 @@ cubeCorners = [
 ]
 ```
 
-I'll fill in the rest of this later. I got to do my homework.
-
-It should be posted :P
-
-for Hack Club, Perse school
+need to claim my boba
